@@ -1,9 +1,9 @@
 {
   "name": "@prodatalab/jszmq",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Port of zeromq to Javascript over Web Socket transport",
-  "main": "lib/src/index.js",
-  "types": "lib/src/index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "type": "module",
   "scripts": {
     "build": "tsc -p tsconfig.json",
